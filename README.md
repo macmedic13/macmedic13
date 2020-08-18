@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://www.learnenough.com/certificates/macmedic13"><img src="https://www.learnenough.com/certificates/macmedic13/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/macmedic13"><img src="https://www.learnenough.com/certificates/macmedic13/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/macmedic13"><img src="https://www.learnenough.com/certificates/macmedic13/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/macmedic13"><img src="https://www.learnenough.com/certificates/macmedic13/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a>
 <!--
 **macmedic13/macmedic13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
